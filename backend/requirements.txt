@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+python-dotenv
+openai
+httpx
+pydantic
+pydantic-settings
+langchain
+langchain-openai
+python-multipart
+tqdm
+PyYAML
+requests
+# Removed JS packages mistakenly added: recharts-py, react-markdown
